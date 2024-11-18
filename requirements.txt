@@ -1,4 +1,4 @@
-aiohttp==3.10.10
+aiohttp==3.10.11
 beautifulsoup4==4.12.3
 Flask==3.0.3
 protobuf==5.28.2
