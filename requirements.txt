@@ -5,4 +5,4 @@ protobuf==5.28.2
 Requests==2.32.3
 tqdm==4.66.5
 gunicorn==22.0.0
-Werkzeug==3.0.3
+Werkzeug==3.0.6
